@@ -1,0 +1,18 @@
+{
+    "name": "ibrokhim/alif-php",
+    "description": "A php task for Alif",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ibrokhim Shokirov",
+            "email": "ibrokhim.shokirov@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Ibrokhim\\AlifPhp\\": "src/"
+        }
+    },
+    "require": {}
+}
